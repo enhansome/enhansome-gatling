@@ -589,7 +589,7 @@
             "last_commit": "2026-08-06T00:22:20Z",
             "owner": "TheJambo",
             "repo": "awesome-testing",
-            "stars": 2344
+            "stars": 2346
           }
         },
         {
@@ -706,7 +706,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T15:24:45.718Z",
+    "last_updated": "2026-08-15T14:53:11.303Z",
     "original_repository": "aliesbelik/awesome-gatling",
     "original_repository_sha": "d742881c4a82d75dc95b9ac4b32cbc6caf75828d",
     "enhanced_repository": "enhansome/enhansome-gatling",
