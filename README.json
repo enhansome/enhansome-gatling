@@ -78,7 +78,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-10T07:07:57Z",
+            "last_commit": "2026-08-17T07:07:40Z",
             "owner": "gatling",
             "repo": "gatling-sbt-plugin",
             "stars": 108
@@ -120,7 +120,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-10T07:02:36Z",
+            "last_commit": "2026-08-17T07:02:44Z",
             "owner": "gatling",
             "repo": "gatling-maven-plugin",
             "stars": 38
@@ -162,7 +162,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-16T00:28:00Z",
+            "last_commit": "2026-08-16T17:53:22Z",
             "owner": "galax-io",
             "repo": "gatling-kafka-plugin",
             "stars": 22
@@ -204,7 +204,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-13T01:22:59Z",
+            "last_commit": "2026-08-17T03:44:34Z",
             "owner": "galax-io",
             "repo": "gatling-picatinny",
             "stars": 12
@@ -260,7 +260,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-09T14:09:46Z",
+            "last_commit": "2026-08-16T17:53:57Z",
             "owner": "galax-io",
             "repo": "gatling-jdbc-plugin",
             "stars": 9
@@ -344,7 +344,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-10T07:11:29Z",
+            "last_commit": "2026-08-17T07:10:13Z",
             "owner": "gatling",
             "repo": "gatling-build-plugin",
             "stars": 3
@@ -706,7 +706,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T14:53:23.172Z",
+    "last_updated": "2026-08-17T14:58:16.081Z",
     "original_repository": "aliesbelik/awesome-gatling",
     "original_repository_sha": "d742881c4a82d75dc95b9ac4b32cbc6caf75828d",
     "enhanced_repository": "enhansome/enhansome-gatling",
