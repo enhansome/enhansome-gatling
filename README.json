@@ -170,7 +170,7 @@
                 "archived": false,
                 "id": 709126751,
                 "language": "Scala",
-                "last_commit": "2026-08-19T00:56:28Z",
+                "last_commit": "2026-08-20T04:04:19Z",
                 "owner": "galax-io",
                 "repo": "gatling-kafka-plugin",
                 "stars": 22
@@ -215,7 +215,7 @@
                 "archived": false,
                 "id": 776741046,
                 "language": "Scala",
-                "last_commit": "2026-08-19T00:43:03Z",
+                "last_commit": "2026-08-19T23:07:33Z",
                 "owner": "galax-io",
                 "repo": "gatling-picatinny",
                 "stars": 12
@@ -625,7 +625,7 @@
                 "last_commit": "2026-08-06T00:22:20Z",
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2347
+                "stars": 2352
               }
             },
             {
@@ -670,7 +670,7 @@
                 "last_commit": "2026-08-18T23:40:48Z",
                 "owner": "grafana",
                 "repo": "awesome-k6",
-                "stars": 772
+                "stars": 773
               }
             },
             {
@@ -750,7 +750,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T15:04:40.480Z",
+    "last_updated": "2026-08-20T15:07:49.439Z",
     "original_repository": "aliesbelik/awesome-gatling",
     "original_repository_id": 216829747,
     "original_repository_sha": "d742881c4a82d75dc95b9ac4b32cbc6caf75828d",
