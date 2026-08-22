@@ -80,7 +80,7 @@
                 "archived": false,
                 "id": 10322217,
                 "language": "Scala",
-                "last_commit": "2026-08-17T07:07:40Z",
+                "last_commit": "2026-08-21T15:22:12Z",
                 "owner": "gatling",
                 "repo": "gatling-sbt-plugin",
                 "stars": 108
@@ -170,7 +170,7 @@
                 "archived": false,
                 "id": 709126751,
                 "language": "Scala",
-                "last_commit": "2026-08-21T06:58:50Z",
+                "last_commit": "2026-08-22T05:12:33Z",
                 "owner": "galax-io",
                 "repo": "gatling-kafka-plugin",
                 "stars": 22
@@ -215,7 +215,7 @@
                 "archived": false,
                 "id": 776741046,
                 "language": "Scala",
-                "last_commit": "2026-08-21T07:06:02Z",
+                "last_commit": "2026-08-22T04:36:11Z",
                 "owner": "galax-io",
                 "repo": "gatling-picatinny",
                 "stars": 12
@@ -622,7 +622,7 @@
                 "archived": false,
                 "id": 77133957,
                 "language": null,
-                "last_commit": "2026-08-06T00:22:20Z",
+                "last_commit": "2026-08-22T13:35:42Z",
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
                 "stars": 2353
@@ -640,7 +640,7 @@
                 "last_commit": "2023-02-01T15:23:18Z",
                 "owner": "ligurio",
                 "repo": "sqa-wiki",
-                "stars": 2321
+                "stars": 2320
               }
             },
             {
@@ -670,7 +670,7 @@
                 "last_commit": "2026-08-18T23:40:48Z",
                 "owner": "grafana",
                 "repo": "awesome-k6",
-                "stars": 773
+                "stars": 774
               }
             },
             {
@@ -750,7 +750,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T15:06:00.857Z",
+    "last_updated": "2026-08-22T14:52:52.083Z",
     "original_repository": "aliesbelik/awesome-gatling",
     "original_repository_id": 216829747,
     "original_repository_sha": "d742881c4a82d75dc95b9ac4b32cbc6caf75828d",
