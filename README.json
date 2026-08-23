@@ -170,7 +170,7 @@
                 "archived": false,
                 "id": 709126751,
                 "language": "Scala",
-                "last_commit": "2026-08-22T05:12:33Z",
+                "last_commit": "2026-08-23T14:37:35Z",
                 "owner": "galax-io",
                 "repo": "gatling-kafka-plugin",
                 "stars": 22
@@ -275,7 +275,7 @@
                 "archived": false,
                 "id": 776761205,
                 "language": "Scala",
-                "last_commit": "2026-08-16T17:53:57Z",
+                "last_commit": "2026-08-23T01:39:49Z",
                 "owner": "galax-io",
                 "repo": "gatling-jdbc-plugin",
                 "stars": 9
@@ -290,7 +290,7 @@
                 "archived": false,
                 "id": 776764347,
                 "language": "Scala",
-                "last_commit": "2026-08-19T01:22:38Z",
+                "last_commit": "2026-08-23T00:37:41Z",
                 "owner": "galax-io",
                 "repo": "gatling-amqp-plugin",
                 "stars": 7
@@ -622,10 +622,10 @@
                 "archived": false,
                 "id": 77133957,
                 "language": null,
-                "last_commit": "2026-08-22T13:35:42Z",
+                "last_commit": "2026-08-22T20:24:21Z",
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2353
+                "stars": 2355
               }
             },
             {
@@ -750,7 +750,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T14:52:52.083Z",
+    "last_updated": "2026-08-23T14:54:06.827Z",
     "original_repository": "aliesbelik/awesome-gatling",
     "original_repository_id": 216829747,
     "original_repository_sha": "d742881c4a82d75dc95b9ac4b32cbc6caf75828d",

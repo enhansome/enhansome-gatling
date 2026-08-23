@@ -41,7 +41,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 * [Homepage](https://gatling.io/)
 * [Documentation](https://docs.gatling.io/)
-* [Source code](https://github.com/gatling/gatling) ⭐ 6,950 | 🐛 21 | 🌐 Scala | 📅 2026-07-27
+* [Source code](https://github.com/gatling/gatling) ⭐ 6,951 | 🐛 21 | 🌐 Scala | 📅 2026-07-27
 
 ## Getting Started
 
@@ -74,15 +74,15 @@ A curated collection of resources covering all aspects of load testing using [Ga
 * [gatling-maven-plugin](https://github.com/gatling/gatling-maven-plugin) ⭐ 38 | 🐛 4 | 🌐 Java | 📅 2026-08-17 - Gatling Maven Extensions.
 * [gatling-gradle-plugin](https://github.com/gatling/gatling-gradle-plugin) ⭐ 30 | 🐛 0 | 🌐 Groovy | 📅 2026-08-10 - Gatling plugin for Gradle.
 * [gatling-tcp-extensions](https://github.com/scalecube/gatling-tcp-extensions) ⭐ 23 | 🐛 5 | 🌐 Scala | 📅 2023-04-16 - TCP extensions for Gatling.
-* [gatling-kafka-plugin](https://github.com/galax-io/gatling-kafka-plugin) ⭐ 22 | 🐛 28 | 🌐 Scala | 📅 2026-08-22 - Plugin for support Kafka in Gatling.
+* [gatling-kafka-plugin](https://github.com/galax-io/gatling-kafka-plugin) ⭐ 22 | 🐛 27 | 🌐 Scala | 📅 2026-08-23 - Plugin for support Kafka in Gatling.
 * [gatling-kafka](https://github.com/Amerousful/gatling-kafka) ⭐ 18 | 🐛 3 | 🌐 Scala | 📅 2026-05-23 - Gatling plugin for Kafka.
 * [gatling-thrift](https://github.com/3tty0n/gatling-thrift) ⚠️ Archived - Gatling third party plugin for Apache Thrift.
 * [gatling-picatinny](https://github.com/galax-io/gatling-picatinny) ⭐ 12 | 🐛 61 | 🌐 Scala | 📅 2026-08-22 - Library with a bunch of useful functions that extend Gatling DSL.
 * [gatling-aws](https://github.com/callistaenterprise/gatling-aws) ⭐ 11 | 🐛 2 | 🌐 Scala | 📅 2018-11-14 - Gatling custom protocol for AWS Lambda.
 * [gatling-wait](https://github.com/Amerousful/gatling-wait) ⭐ 11 | 🐛 0 | 🌐 Scala | 📅 2026-02-27 - Plugin that simplifies waiting for specific events allowing customizable conditions, attempt management, and error handling.
 * [gatling-remote-sbt](https://github.com/Pravoru/gatling-remote-sbt) ⭐ 10 | 🐛 0 | 🌐 Scala | 📅 2020-04-29 - Remote execution plugin for Gatling load tests.
-* [gatling-jdbc-plugin](https://github.com/galax-io/gatling-jdbc-plugin) ⭐ 9 | 🐛 31 | 🌐 Scala | 📅 2026-08-16 - Simple Gatling plugin for JDBC support.
-* [gatling-amqp-plugin](https://github.com/galax-io/gatling-amqp-plugin) ⭐ 7 | 🐛 1 | 🌐 Scala | 📅 2026-08-19 - Plugin for support performance testing with AMQP in Gatling (3.2.x).
+* [gatling-jdbc-plugin](https://github.com/galax-io/gatling-jdbc-plugin) ⭐ 9 | 🐛 33 | 🌐 Scala | 📅 2026-08-23 - Simple Gatling plugin for JDBC support.
+* [gatling-amqp-plugin](https://github.com/galax-io/gatling-amqp-plugin) ⭐ 7 | 🐛 4 | 🌐 Scala | 📅 2026-08-23 - Plugin for support performance testing with AMQP in Gatling (3.2.x).
 * [gatling-sql](https://github.com/tmcgrath/gatling-sql) ⭐ 6 | 🐛 2 | 🌐 Scala | 📅 2021-04-22 - Gatling extension for JDBC or Spark Thrift Server stress testing.
 * [gatling-kafka-extension](https://github.com/kbdering/GatlingMessaging) ⭐ 5 | 🐛 2 | 🌐 Java | 📅 2026-06-30 - A Gatling extension for load testing Kafka applications, with a focus on Request-Reply (RPC) patterns, Quality of Service (QoS) measurement, and resilience testing.
 * [gatling-zeromq](https://github.com/softwaremill/gatling-zeromq) ⚠️ Archived - A Gatling stress test plugin for ZeroMQ protocol.
@@ -153,7 +153,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 ### Awesome Lists
 
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,353 | 🐛 6 | 📅 2026-08-22 - A curated list of testing resources.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,355 | 🐛 5 | 📅 2026-08-22 - A curated list of testing resources.
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,320 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
 * [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) ⭐ 807 | 🐛 4 | 🌐 HTML | 📅 2026-08-01 - Open-source load testing and performance measurement tool, written in Java.
 * [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 774 | 🐛 3 | 📅 2026-08-18 - Open-source, developer-centric performance monitoring and load testing solution.
@@ -172,4 +172,4 @@ Please take a look at the [CONTRIBUTING](CONTRIBUTING.md) guidelines first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
