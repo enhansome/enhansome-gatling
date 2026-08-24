@@ -80,7 +80,7 @@
                 "archived": false,
                 "id": 10322217,
                 "language": "Scala",
-                "last_commit": "2026-08-21T15:22:12Z",
+                "last_commit": "2026-08-23T22:56:21Z",
                 "owner": "gatling",
                 "repo": "gatling-sbt-plugin",
                 "stars": 108
@@ -125,7 +125,7 @@
                 "archived": false,
                 "id": 25203867,
                 "language": "Java",
-                "last_commit": "2026-08-17T07:02:44Z",
+                "last_commit": "2026-08-24T13:28:40Z",
                 "owner": "gatling",
                 "repo": "gatling-maven-plugin",
                 "stars": 38
@@ -140,7 +140,7 @@
                 "archived": false,
                 "id": 277641140,
                 "language": "Groovy",
-                "last_commit": "2026-08-10T07:15:00Z",
+                "last_commit": "2026-08-24T14:22:50Z",
                 "owner": "gatling",
                 "repo": "gatling-gradle-plugin",
                 "stars": 30
@@ -170,7 +170,7 @@
                 "archived": false,
                 "id": 709126751,
                 "language": "Scala",
-                "last_commit": "2026-08-23T14:37:35Z",
+                "last_commit": "2026-08-24T04:45:24Z",
                 "owner": "galax-io",
                 "repo": "gatling-kafka-plugin",
                 "stars": 22
@@ -215,7 +215,7 @@
                 "archived": false,
                 "id": 776741046,
                 "language": "Scala",
-                "last_commit": "2026-08-22T04:36:11Z",
+                "last_commit": "2026-08-24T09:38:40Z",
                 "owner": "galax-io",
                 "repo": "gatling-picatinny",
                 "stars": 12
@@ -365,7 +365,7 @@
                 "archived": false,
                 "id": 28174813,
                 "language": "Scala",
-                "last_commit": "2026-08-17T07:10:13Z",
+                "last_commit": "2026-08-24T02:47:24Z",
                 "owner": "gatling",
                 "repo": "gatling-build-plugin",
                 "stars": 3
@@ -750,7 +750,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:54:06.827Z",
+    "last_updated": "2026-08-24T14:44:40.099Z",
     "original_repository": "aliesbelik/awesome-gatling",
     "original_repository_id": 216829747,
     "original_repository_sha": "d742881c4a82d75dc95b9ac4b32cbc6caf75828d",
