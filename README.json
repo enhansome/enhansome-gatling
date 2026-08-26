@@ -80,7 +80,7 @@
                 "archived": false,
                 "id": 10322217,
                 "language": "Scala",
-                "last_commit": "2026-08-23T22:56:21Z",
+                "last_commit": "2026-08-26T08:55:19Z",
                 "owner": "gatling",
                 "repo": "gatling-sbt-plugin",
                 "stars": 108
@@ -125,7 +125,7 @@
                 "archived": false,
                 "id": 25203867,
                 "language": "Java",
-                "last_commit": "2026-08-24T13:28:40Z",
+                "last_commit": "2026-08-26T08:11:52Z",
                 "owner": "gatling",
                 "repo": "gatling-maven-plugin",
                 "stars": 38
@@ -140,7 +140,7 @@
                 "archived": false,
                 "id": 277641140,
                 "language": "Groovy",
-                "last_commit": "2026-08-25T15:15:23Z",
+                "last_commit": "2026-08-26T08:12:59Z",
                 "owner": "gatling",
                 "repo": "gatling-gradle-plugin",
                 "stars": 30
@@ -365,7 +365,7 @@
                 "archived": false,
                 "id": 28174813,
                 "language": "Scala",
-                "last_commit": "2026-08-25T15:03:40Z",
+                "last_commit": "2026-08-25T16:12:30Z",
                 "owner": "gatling",
                 "repo": "gatling-build-plugin",
                 "stars": 3
@@ -622,7 +622,7 @@
                 "archived": false,
                 "id": 77133957,
                 "language": null,
-                "last_commit": "2026-08-22T20:24:21Z",
+                "last_commit": "2026-08-25T19:20:52Z",
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
                 "stars": 2357
@@ -750,7 +750,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T15:24:42.401Z",
+    "last_updated": "2026-08-26T16:03:16.071Z",
     "original_repository": "aliesbelik/awesome-gatling",
     "original_repository_id": 216829747,
     "original_repository_sha": "d742881c4a82d75dc95b9ac4b32cbc6caf75828d",
