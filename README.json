@@ -750,7 +750,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:40:32.313Z",
+    "last_updated": "2026-08-27T23:55:35.616Z",
     "original_repository_info": {
       "archived": false,
       "id": 216829747,
@@ -758,7 +758,7 @@
       "last_commit": "2026-08-09T11:47:20Z",
       "owner": "aliesbelik",
       "repo": "awesome-gatling",
-      "stars": 79
+      "stars": 80
     },
     "original_repository_sha": "d742881c4a82d75dc95b9ac4b32cbc6caf75828d",
     "enhanced_repository": "enhansome/enhansome-gatling",
