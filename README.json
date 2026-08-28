@@ -16,7 +16,8 @@
             "owner": "Abiy",
             "repo": "distGatling",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-28T23:39:11.645Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "st-tech",
             "repo": "gatling-operator",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T23:39:11.645Z"
         }
       ],
       "title": "Distributed Testing"
@@ -54,7 +56,8 @@
                 "owner": "youzan",
                 "repo": "gatling-dubbo",
                 "stars": 153
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             },
             {
               "node_type": "item",
@@ -69,7 +72,8 @@
                 "owner": "phiSgr",
                 "repo": "gatling-grpc",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             },
             {
               "node_type": "item",
@@ -84,7 +88,8 @@
                 "owner": "gatling",
                 "repo": "gatling-sbt-plugin",
                 "stars": 108
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             },
             {
               "node_type": "item",
@@ -99,7 +104,8 @@
                 "owner": "mnogu",
                 "repo": "gatling-kafka",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             },
             {
               "node_type": "item",
@@ -114,7 +120,8 @@
                 "owner": "mnogu",
                 "repo": "gatling-mqtt",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             },
             {
               "node_type": "item",
@@ -129,7 +136,8 @@
                 "owner": "gatling",
                 "repo": "gatling-maven-plugin",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             },
             {
               "node_type": "item",
@@ -144,7 +152,8 @@
                 "owner": "gatling",
                 "repo": "gatling-gradle-plugin",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             },
             {
               "node_type": "item",
@@ -159,7 +168,8 @@
                 "owner": "scalecube",
                 "repo": "gatling-tcp-extensions",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             },
             {
               "node_type": "item",
@@ -174,7 +184,8 @@
                 "owner": "galax-io",
                 "repo": "gatling-kafka-plugin",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             },
             {
               "node_type": "item",
@@ -189,7 +200,8 @@
                 "owner": "Amerousful",
                 "repo": "gatling-kafka",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             },
             {
               "node_type": "item",
@@ -204,7 +216,8 @@
                 "owner": "3tty0n",
                 "repo": "gatling-thrift",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             },
             {
               "node_type": "item",
@@ -219,7 +232,8 @@
                 "owner": "galax-io",
                 "repo": "gatling-picatinny",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             },
             {
               "node_type": "item",
@@ -234,7 +248,8 @@
                 "owner": "callistaenterprise",
                 "repo": "gatling-aws",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             },
             {
               "node_type": "item",
@@ -249,7 +264,8 @@
                 "owner": "Amerousful",
                 "repo": "gatling-wait",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             },
             {
               "node_type": "item",
@@ -264,7 +280,8 @@
                 "owner": "Pravoru",
                 "repo": "gatling-remote-sbt",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             },
             {
               "node_type": "item",
@@ -279,7 +296,8 @@
                 "owner": "galax-io",
                 "repo": "gatling-jdbc-plugin",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             },
             {
               "node_type": "item",
@@ -294,7 +312,8 @@
                 "owner": "galax-io",
                 "repo": "gatling-amqp-plugin",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             },
             {
               "node_type": "item",
@@ -309,7 +328,8 @@
                 "owner": "tmcgrath",
                 "repo": "gatling-sql",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             },
             {
               "node_type": "item",
@@ -324,7 +344,8 @@
                 "owner": "kbdering",
                 "repo": "GatlingMessaging",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             },
             {
               "node_type": "item",
@@ -339,7 +360,8 @@
                 "owner": "softwaremill",
                 "repo": "gatling-zeromq",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             },
             {
               "node_type": "item",
@@ -354,7 +376,8 @@
                 "owner": "TLmaK0",
                 "repo": "gatling-xmpp-protocol",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             },
             {
               "node_type": "item",
@@ -369,7 +392,8 @@
                 "owner": "gatling",
                 "repo": "gatling-build-plugin",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             },
             {
               "node_type": "item",
@@ -384,7 +408,8 @@
                 "owner": "Pravoru",
                 "repo": "gatling-junitrunner",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             },
             {
               "node_type": "item",
@@ -399,7 +424,8 @@
                 "owner": "sarmbruster",
                 "repo": "gatling-bolt",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             }
           ],
           "description": null,
@@ -421,7 +447,8 @@
                 "owner": "OctoPerf",
                 "repo": "kraken",
                 "stars": 119
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             },
             {
               "node_type": "item",
@@ -436,7 +463,8 @@
                 "owner": "Performetriks",
                 "repo": "Gatlytron",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             }
           ],
           "description": null,
@@ -458,7 +486,8 @@
                 "owner": "nuxeo",
                 "repo": "gatling-report",
                 "stars": 127
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             },
             {
               "node_type": "item",
@@ -473,7 +502,8 @@
                 "owner": "Amerousful",
                 "repo": "gatling-elasticsearch-logs",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             },
             {
               "node_type": "item",
@@ -488,7 +518,8 @@
                 "owner": "biski",
                 "repo": "gatling2allure",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             }
           ],
           "description": null,
@@ -510,7 +541,8 @@
                 "owner": "robsonbittencourt",
                 "repo": "gatling-scaffold",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             },
             {
               "node_type": "item",
@@ -525,7 +557,8 @@
                 "owner": "znsio",
                 "repo": "perfiz",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             }
           ],
           "description": null,
@@ -547,7 +580,8 @@
                 "owner": "rupeshmore",
                 "repo": "dakiya",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             },
             {
               "node_type": "item",
@@ -562,7 +596,8 @@
                 "owner": "galax-io",
                 "repo": "gatling-template.g8",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             }
           ],
           "description": null,
@@ -588,7 +623,8 @@
             "owner": "jenkinsci",
             "repo": "gatling-plugin",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T23:39:11.645Z"
         },
         {
           "node_type": "item",
@@ -603,7 +639,8 @@
             "owner": "liatrio",
             "repo": "run-gatling",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T23:39:11.645Z"
         }
       ],
       "title": "CI"
@@ -622,11 +659,12 @@
                 "archived": false,
                 "id": 77133957,
                 "language": null,
-                "last_commit": "2026-08-25T19:20:52Z",
+                "last_commit": "2026-08-28T21:20:23Z",
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2358
-              }
+                "stars": 2359
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             },
             {
               "node_type": "item",
@@ -641,7 +679,8 @@
                 "owner": "ligurio",
                 "repo": "sqa-wiki",
                 "stars": 2320
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             },
             {
               "node_type": "item",
@@ -656,7 +695,8 @@
                 "owner": "aliesbelik",
                 "repo": "awesome-jmeter",
                 "stars": 807
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             },
             {
               "node_type": "item",
@@ -671,7 +711,8 @@
                 "owner": "grafana",
                 "repo": "awesome-k6",
                 "stars": 774
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             },
             {
               "node_type": "item",
@@ -686,7 +727,8 @@
                 "owner": "aliesbelik",
                 "repo": "awesome-locust",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             },
             {
               "node_type": "item",
@@ -701,7 +743,8 @@
                 "owner": "aliesbelik",
                 "repo": "awesome-tsung",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             }
           ],
           "description": null,
@@ -722,8 +765,9 @@
                 "last_commit": "2026-07-01T09:53:53Z",
                 "owner": "aliesbelik",
                 "repo": "load-testing-toolkit",
-                "stars": 252
-              }
+                "stars": 253
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             },
             {
               "node_type": "item",
@@ -738,7 +782,8 @@
                 "owner": "aliesbelik",
                 "repo": "how-they-load",
                 "stars": 167
-              }
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
             }
           ],
           "description": null,
@@ -750,7 +795,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:55:35.616Z",
+    "last_updated": "2026-08-28T23:39:11.645Z",
     "original_repository_info": {
       "archived": false,
       "id": 216829747,
