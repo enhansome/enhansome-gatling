@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Distributed Gatling",
+            "homepage": null,
             "id": 63551115,
             "language": "CSS",
+            "license": null,
             "last_commit": "2023-01-04T17:36:15Z",
+            "open_issues": 48,
             "owner": "Abiy",
             "repo": "distGatling",
-            "stars": 102
+            "stars": 102,
+            "topics": [
+              "cluster",
+              "distributed",
+              "gatling"
+            ]
           },
           "first_seen": "2026-08-28T23:39:11.645Z"
         },
@@ -26,12 +35,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automating distributed Gatling load testing using Kubernetes operator",
+            "homepage": null,
             "id": 413785782,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-03-25T11:10:53Z",
+            "open_issues": 17,
             "owner": "st-tech",
             "repo": "gatling-operator",
-            "stars": 85
+            "stars": 85,
+            "topics": [
+              "gatling",
+              "k8s-operator"
+            ]
           },
           "first_seen": "2026-08-28T23:39:11.645Z"
         }
@@ -50,12 +67,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A gatling plugin for running load tests on Apache Dubbo(https://github.com/apache/incubator-dubbo) and other java ecosystem.",
+                "homepage": null,
                 "id": 162019091,
                 "language": "Scala",
+                "license": null,
                 "last_commit": "2019-08-20T08:45:41Z",
+                "open_issues": 4,
                 "owner": "youzan",
                 "repo": "gatling-dubbo",
-                "stars": 153
+                "stars": 153,
+                "topics": [
+                  "benchmark",
+                  "benchmarking",
+                  "dubbo",
+                  "gatling",
+                  "gatling-dubbo",
+                  "java",
+                  "load-testing",
+                  "loadtest",
+                  "performance",
+                  "performance-testing",
+                  "scala",
+                  "stress-testing"
+                ]
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             },
@@ -66,12 +101,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Gatling load test plugin for gRPC",
+                "homepage": null,
                 "id": 144457012,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2024-02-07T04:35:09Z",
+                "open_issues": 2,
                 "owner": "phiSgr",
                 "repo": "gatling-grpc",
-                "stars": 128
+                "stars": 128,
+                "topics": [
+                  "grpc"
+                ]
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             },
@@ -82,12 +124,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gatling Plugin for SBT",
+                "homepage": "https://gatling.io",
                 "id": 10322217,
                 "language": "Scala",
+                "license": null,
                 "last_commit": "2026-08-26T08:55:19Z",
+                "open_issues": 1,
                 "owner": "gatling",
                 "repo": "gatling-sbt-plugin",
-                "stars": 108
+                "stars": 108,
+                "topics": [
+                  "automation",
+                  "gatling",
+                  "loadtesting",
+                  "sbt",
+                  "sbt-plugin"
+                ]
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             },
@@ -98,12 +151,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Gatling stress test plugin for Apache Kafka protocol",
+                "homepage": null,
                 "id": 29919620,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2021-03-22T08:13:04Z",
+                "open_issues": 17,
                 "owner": "mnogu",
                 "repo": "gatling-kafka",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "gatling",
+                  "kafka",
+                  "stress-test"
+                ]
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             },
@@ -114,12 +176,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Gatling stress test plugin for MQTT",
+                "homepage": null,
                 "id": 30675429,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2018-12-09T11:49:16Z",
+                "open_issues": 5,
                 "owner": "mnogu",
                 "repo": "gatling-mqtt",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "gatling",
+                  "mqtt",
+                  "stress-test"
+                ]
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             },
@@ -130,12 +201,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gatling Plugin for Maven",
+                "homepage": null,
                 "id": 25203867,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T08:11:52Z",
+                "open_issues": 1,
                 "owner": "gatling",
                 "repo": "gatling-maven-plugin",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "automation",
+                  "gatling",
+                  "loadtesting",
+                  "maven",
+                  "maven-plugin"
+                ]
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             },
@@ -146,12 +228,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gatling Plugin for Gradle",
+                "homepage": "https://gatling.io",
                 "id": 277641140,
                 "language": "Groovy",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T08:12:59Z",
+                "open_issues": 0,
                 "owner": "gatling",
                 "repo": "gatling-gradle-plugin",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "automation",
+                  "gatling",
+                  "gradle",
+                  "gradle-plugin",
+                  "loadtesting"
+                ]
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             },
@@ -162,12 +255,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tcp extensions for gatling",
+                "homepage": null,
                 "id": 28538657,
                 "language": "Scala",
+                "license": "MIT",
                 "last_commit": "2023-04-16T01:03:30Z",
+                "open_issues": 5,
                 "owner": "scalecube",
                 "repo": "gatling-tcp-extensions",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             },
@@ -178,12 +276,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gatling plugin for Apache Kafka — produce, request-reply, and consume load testing with Avro, Protobuf, and Schema Registry support",
+                "homepage": null,
                 "id": 709126751,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T09:23:26Z",
+                "open_issues": 23,
                 "owner": "galax-io",
                 "repo": "gatling-kafka-plugin",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "avro",
+                  "gatling",
+                  "java",
+                  "kafka",
+                  "kotlin",
+                  "load-testing",
+                  "performance",
+                  "performance-testing",
+                  "protobuf",
+                  "scala",
+                  "schema-registry"
+                ]
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             },
@@ -194,12 +309,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gatling plugin for Kafka",
+                "homepage": null,
                 "id": 691128301,
                 "language": "Scala",
+                "license": "MIT",
                 "last_commit": "2026-05-23T15:19:06Z",
+                "open_issues": 3,
                 "owner": "Amerousful",
                 "repo": "gatling-kafka",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             },
@@ -210,12 +330,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Gatling third party plugin for thrift protocol.",
+                "homepage": "https://3tty0n.github.io/gatling-thrift/",
                 "id": 100807178,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2018-07-19T15:24:21Z",
+                "open_issues": 0,
                 "owner": "3tty0n",
                 "repo": "gatling-thrift",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "gatling",
+                  "load-testing",
+                  "sbt",
+                  "thrift",
+                  "thrift-server"
+                ]
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             },
@@ -226,12 +357,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gatling DSL extensions — feeders, profile management, transactions, assertions, Redis integration, and utility functions",
+                "homepage": null,
                 "id": 776741046,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T09:38:40Z",
+                "open_issues": 60,
                 "owner": "galax-io",
                 "repo": "gatling-picatinny",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "dsl",
+                  "feeders",
+                  "gatling",
+                  "gatling-plugin",
+                  "java",
+                  "jwt",
+                  "kotlin",
+                  "load-testing",
+                  "performance",
+                  "performance-testing",
+                  "redis",
+                  "scala"
+                ]
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             },
@@ -242,12 +391,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gatling custom protocol for AWS Lambda",
+                "homepage": null,
                 "id": 74576352,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2018-11-14T16:47:12Z",
+                "open_issues": 2,
                 "owner": "callistaenterprise",
                 "repo": "gatling-aws",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             },
@@ -258,12 +412,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Gatling Wait Plugin simplifies waiting for specific events in your testing scenarios by allowing customizable conditions, attempt management, and error handling.",
+                "homepage": null,
                 "id": 867698453,
                 "language": "Scala",
+                "license": "MIT",
                 "last_commit": "2026-02-27T10:37:27Z",
+                "open_issues": 0,
                 "owner": "Amerousful",
                 "repo": "gatling-wait",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             },
@@ -274,12 +433,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Remote execution plugin for gatling load tests.",
+                "homepage": null,
                 "id": 97818902,
                 "language": "Scala",
+                "license": "MIT",
                 "last_commit": "2020-04-29T07:35:57Z",
+                "open_issues": 0,
                 "owner": "Pravoru",
                 "repo": "gatling-remote-sbt",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "gatling",
+                  "load-testing",
+                  "remote-execution",
+                  "sbt-plugin"
+                ]
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             },
@@ -290,12 +459,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gatling plugin for JDBC — SQL queries, batch operations, and stored procedures with HikariCP connection pooling",
+                "homepage": null,
                 "id": 776761205,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-23T01:39:49Z",
+                "open_issues": 33,
                 "owner": "galax-io",
                 "repo": "gatling-jdbc-plugin",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "gatling",
+                  "gatling-plugin",
+                  "hikaricp",
+                  "java",
+                  "jdbc",
+                  "kotlin",
+                  "load-testing",
+                  "mysql",
+                  "performance",
+                  "performance-testing",
+                  "postgresql",
+                  "scala"
+                ]
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             },
@@ -306,12 +493,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gatling plugin for AMQP/RabbitMQ — publish, request-reply, and consume patterns with connection pooling",
+                "homepage": null,
                 "id": 776764347,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-23T00:37:41Z",
+                "open_issues": 4,
                 "owner": "galax-io",
                 "repo": "gatling-amqp-plugin",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "amqp",
+                  "gatling",
+                  "gatling-plugin",
+                  "java",
+                  "kotlin",
+                  "load-testing",
+                  "messaging",
+                  "performance",
+                  "performance-testing",
+                  "rabbitmq",
+                  "scala"
+                ]
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             },
@@ -322,12 +526,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gatling Extension for JDBC or Spark Thrift Server stress tests",
+                "homepage": "https://supergloo.com/spark/apache-spark-thrift-server-load-testing-example/",
                 "id": 95607129,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2021-04-22T21:54:29Z",
+                "open_issues": 2,
                 "owner": "tmcgrath",
                 "repo": "gatling-sql",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "gatling",
+                  "jdbc",
+                  "stress-testing",
+                  "thrift-server"
+                ]
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             },
@@ -338,12 +552,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository for Gatling Messaging plugin ",
+                "homepage": null,
                 "id": 960432923,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-30T06:34:31Z",
+                "open_issues": 2,
                 "owner": "kbdering",
                 "repo": "GatlingMessaging",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "gatling",
+                  "gatling-plugin",
+                  "kafka",
+                  "load-testing",
+                  "resilience",
+                  "resilience-testing"
+                ]
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             },
@@ -354,12 +580,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Gatling stress test plugin for ZeroMQ protocol",
+                "homepage": null,
                 "id": 99933718,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2017-09-10T09:36:39Z",
+                "open_issues": 3,
                 "owner": "softwaremill",
                 "repo": "gatling-zeromq",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "gatling",
+                  "scala",
+                  "zeromq"
+                ]
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             },
@@ -370,12 +605,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "XMPP Protocol for stress test XMPP servers with Gatling",
+                "homepage": null,
                 "id": 71704285,
                 "language": "Scala",
+                "license": "MIT",
                 "last_commit": "2018-11-13T17:20:51Z",
+                "open_issues": 0,
                 "owner": "TLmaK0",
                 "repo": "gatling-xmpp-protocol",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             },
@@ -386,12 +626,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A SBT plugin to share common settings across Gatling's projects' builds",
+                "homepage": "https://gatling.io",
                 "id": 28174813,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T16:12:30Z",
+                "open_issues": 0,
                 "owner": "gatling",
                 "repo": "gatling-build-plugin",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "gatling"
+                ]
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             },
@@ -402,12 +649,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JUnit wrapper around gatling simulations",
+                "homepage": null,
                 "id": 98412042,
                 "language": "Scala",
+                "license": "MIT",
                 "last_commit": "2018-11-09T08:34:53Z",
+                "open_issues": 1,
                 "owner": "Pravoru",
                 "repo": "gatling-junitrunner",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "debugging",
+                  "gatling",
+                  "junit"
+                ]
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             },
@@ -418,12 +674,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Support Neo4j Bolt protocol for gatling.",
+                "homepage": null,
                 "id": 102830925,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2021-02-16T12:24:36Z",
+                "open_issues": 5,
                 "owner": "sarmbruster",
                 "repo": "gatling-bolt",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             }
@@ -441,12 +702,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Load Testing IDE",
+                "homepage": "https://kraken.octoperf.com/",
                 "id": 188449327,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-02-15T21:03:00Z",
+                "open_issues": 54,
                 "owner": "OctoPerf",
                 "repo": "kraken",
-                "stars": 119
+                "stars": 119,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             },
@@ -457,12 +723,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gatling Base Framework for easy onboarding",
+                "homepage": null,
                 "id": 852548669,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2025-12-04T14:21:51Z",
+                "open_issues": 0,
                 "owner": "Performetriks",
                 "repo": "Gatlytron",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             }
@@ -480,12 +751,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parse Galting simulation.log files to output CSV stats or build HTML reports with Plotly charts.",
+                "homepage": null,
                 "id": 46802316,
                 "language": "Java",
+                "license": "LGPL-2.1",
                 "last_commit": "2026-08-04T14:30:31Z",
+                "open_issues": 14,
                 "owner": "nuxeo",
                 "repo": "gatling-report",
-                "stars": 127
+                "stars": 127,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             },
@@ -496,12 +772,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Send Gatling logs to Elasticsearch",
+                "homepage": null,
                 "id": 400489097,
                 "language": "Scala",
+                "license": "MIT",
                 "last_commit": "2026-03-19T11:08:50Z",
+                "open_issues": 6,
                 "owner": "Amerousful",
                 "repo": "gatling-elasticsearch-logs",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "elasticsearch",
+                  "gatling",
+                  "load-testing",
+                  "performance-testing"
+                ]
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             },
@@ -512,12 +798,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert Gatling log to Allure report",
+                "homepage": null,
                 "id": 120675080,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2024-12-10T10:26:58Z",
+                "open_issues": 0,
                 "owner": "biski",
                 "repo": "gatling2allure",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "allure",
+                  "allure-report",
+                  "gatling",
+                  "gatling2allure-converter",
+                  "reporting"
+                ]
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             }
@@ -535,12 +832,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Base for load test project using Gatling",
+                "homepage": null,
                 "id": 180265171,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2025-09-24T14:32:08Z",
+                "open_issues": 0,
                 "owner": "robsonbittencourt",
                 "repo": "gatling-scaffold",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "gatling",
+                  "grafana",
+                  "load-test"
+                ]
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             },
@@ -551,12 +857,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Dockerised API Performance Test Setup based on Gatling with Grafana Dashboards and Prometheus Monitoring",
+                "homepage": "https://perfiz.com/",
                 "id": 336231006,
                 "language": "Scala",
+                "license": "MIT",
                 "last_commit": "2025-12-27T12:07:08Z",
+                "open_issues": 8,
                 "owner": "znsio",
                 "repo": "perfiz",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "containers",
+                  "docker",
+                  "docker-compose",
+                  "gatling",
+                  "gatling-metrics",
+                  "gatling-reports",
+                  "gatling-tests",
+                  "grafana",
+                  "grafana-dashboards",
+                  "karate-framework",
+                  "karate-gatling",
+                  "karate-tests",
+                  "metrics-monitor",
+                  "perf-test",
+                  "prometheus"
+                ]
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             }
@@ -574,12 +901,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dakiya: converts Postman collections to load testing tool scripts",
+                "homepage": "https://dakiya.now.sh",
                 "id": 70889596,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-03-07T20:07:15Z",
+                "open_issues": 3,
                 "owner": "rupeshmore",
                 "repo": "dakiya",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "artillery",
+                  "conversion",
+                  "gatling",
+                  "load-testing",
+                  "postman-api",
+                  "postman-collection"
+                ]
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             },
@@ -590,12 +929,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Giter8 template for gatling performance test project",
+                "homepage": null,
                 "id": 776755441,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-01T07:37:44Z",
+                "open_issues": 1,
                 "owner": "galax-io",
                 "repo": "gatling-template.g8",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "gatling",
+                  "performance",
+                  "performance-testing"
+                ]
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             }
@@ -617,12 +965,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jenkins plugin for Gatling",
+            "homepage": "https://plugins.jenkins.io/gatling/",
             "id": 7180493,
             "language": "Java",
+            "license": null,
             "last_commit": "2025-06-16T13:58:41Z",
+            "open_issues": 2,
             "owner": "jenkinsci",
             "repo": "gatling-plugin",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "adopt-this-plugin"
+            ]
           },
           "first_seen": "2026-08-28T23:39:11.645Z"
         },
@@ -633,12 +988,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "GitHub Action to easily integrate Gatling performance tests to GitHub workflows.",
+            "homepage": null,
             "id": 488415127,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2022-12-16T17:46:47Z",
+            "open_issues": 0,
             "owner": "liatrio",
             "repo": "run-gatling",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "gatling",
+              "gatling-simulations",
+              "performance",
+              "performance-engineer",
+              "performance-engineering",
+              "performance-testing",
+              "performance-tests",
+              "performance-tools"
+            ]
           },
           "first_seen": "2026-08-28T23:39:11.645Z"
         }
@@ -657,12 +1026,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of testing resources",
+                "homepage": "https://git.io/v1hSm",
                 "id": 77133957,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-28T21:20:23Z",
+                "open_issues": 5,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2359
+                "stars": 2359,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "list",
+                  "naughty-strings",
+                  "tester",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             },
@@ -673,12 +1054,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My own notes (drafts mostly) about software quality",
+                "homepage": "https://github.com/ligurio/sqa-wiki/wiki",
                 "id": 19713206,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2023-02-01T15:23:18Z",
+                "open_issues": 0,
                 "owner": "ligurio",
                 "repo": "sqa-wiki",
-                "stars": 2320
+                "stars": 2320,
+                "topics": [
+                  "courses",
+                  "ebooks",
+                  "formal-methods",
+                  "learning",
+                  "model-checking",
+                  "quality-assurance",
+                  "software-testing",
+                  "testing",
+                  "tla",
+                  "verification"
+                ]
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             },
@@ -689,12 +1086,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of resources covering different aspects of JMeter usage.",
+                "homepage": "https://aliesbelik.github.io/awesome-jmeter/",
                 "id": 37666064,
                 "language": "HTML",
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-08-01T02:02:30Z",
+                "open_issues": 4,
                 "owner": "aliesbelik",
                 "repo": "awesome-jmeter",
-                "stars": 807
+                "stars": 807,
+                "topics": [
+                  "apache-jmeter",
+                  "awesome",
+                  "awesome-list",
+                  "benchmarking",
+                  "jmeter",
+                  "jmeter-plugin",
+                  "load-testing",
+                  "performance-testing"
+                ]
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             },
@@ -705,12 +1116,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome tools, content and projects using k6",
+                "homepage": null,
                 "id": 236692087,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-18T23:40:48Z",
+                "open_issues": 3,
                 "owner": "grafana",
                 "repo": "awesome-k6",
-                "stars": 774
+                "stars": 774,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "k6",
+                  "load-testing",
+                  "performance-monitoring",
+                  "performance-testing",
+                  "test-automation",
+                  "testing",
+                  "testing-tools"
+                ]
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             },
@@ -721,12 +1147,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of resources covering different aspects of Locust load testing tool usage.",
+                "homepage": "https://aliesbelik.github.io/awesome-locust/",
                 "id": 304007996,
                 "language": null,
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-08-10T14:07:31Z",
+                "open_issues": 0,
                 "owner": "aliesbelik",
                 "repo": "awesome-locust",
-                "stars": 111
+                "stars": 111,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "benchmarking",
+                  "load-testing",
+                  "locust",
+                  "locustio",
+                  "performance-testing",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             },
@@ -737,12 +1177,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of resources covering all aspects of Tsung usage for load testing.",
+                "homepage": "http://aliesbelik.github.io/awesome-tsung/",
                 "id": 54726764,
                 "language": null,
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-08-12T15:10:21Z",
+                "open_issues": 0,
                 "owner": "aliesbelik",
                 "repo": "awesome-tsung",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "erlang",
+                  "load-testing",
+                  "performance-testing",
+                  "tsung",
+                  "tsung-plugin"
+                ]
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             }
@@ -760,12 +1213,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.",
+                "homepage": null,
                 "id": 246082993,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-07-01T09:53:53Z",
+                "open_issues": 1,
                 "owner": "aliesbelik",
                 "repo": "load-testing-toolkit",
-                "stars": 253
+                "stars": 253,
+                "topics": [
+                  "benchmarking",
+                  "ddos",
+                  "http-benchmarking",
+                  "load-testing",
+                  "performance",
+                  "performance-testing",
+                  "stress-testing"
+                ]
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             },
@@ -776,12 +1242,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated collection of publicly available resources on how companies around the world perform load testing",
+                "homepage": null,
                 "id": 395657834,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-11T15:09:18Z",
+                "open_issues": 1,
                 "owner": "aliesbelik",
                 "repo": "how-they-load",
-                "stars": 167
+                "stars": 167,
+                "topics": [
+                  "best-practices",
+                  "load-testing",
+                  "performance-engineering",
+                  "performance-testing",
+                  "stress-testing"
+                ]
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             }
@@ -795,15 +1272,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:39:11.645Z",
+    "last_updated": "2026-08-29T04:59:35.434Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of resources covering different aspects of Gatling load testing tool usage.",
+      "homepage": "https://aliesbelik.github.io/awesome-gatling/",
       "id": 216829747,
       "language": null,
+      "license": "CC-BY-4.0",
       "last_commit": "2026-08-09T11:47:20Z",
+      "open_issues": 0,
       "owner": "aliesbelik",
       "repo": "awesome-gatling",
-      "stars": 80
+      "stars": 80,
+      "topics": [
+        "awesome",
+        "awesome-gatling",
+        "awesome-list",
+        "benchmarking",
+        "gatling",
+        "gatling-plugin",
+        "load-testing",
+        "performance-testing",
+        "scala"
+      ]
     },
     "original_repository_sha": "d742881c4a82d75dc95b9ac4b32cbc6caf75828d",
     "enhanced_repository": "enhansome/enhansome-gatling",
