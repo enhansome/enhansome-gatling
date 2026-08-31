@@ -41,7 +41,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 * [Homepage](https://gatling.io/)
 * [Documentation](https://docs.gatling.io/)
-* [Source code](https://github.com/gatling/gatling) ⭐ 6,954 | 🐛 20 | 🌐 Scala | 📅 2026-08-28
+* [Source code](https://github.com/gatling/gatling) ⭐ 6,956 | 🐛 19 | 🌐 Scala | 📅 2026-08-31
 
 ## Getting Started
 
@@ -68,16 +68,16 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 * [gatling-dubbo](https://github.com/youzan/gatling-dubbo) ⭐ 153 | 🐛 4 | 🌐 Scala | 📅 2019-08-20 - A Gatling plugin for running load tests on Apache Dubbo.
 * [gatling-grpc](https://github.com/phiSgr/gatling-grpc) ⚠️ Archived - Gatling load test plugin for gRPC.
-* [gatling-sbt-plugin](https://github.com/gatling/gatling-sbt-plugin) ⭐ 108 | 🐛 1 | 🌐 Scala | 📅 2026-08-26 - Gatling SBT plugin to integrate Gatling with SBT, allowing to use Gatling as a testing framework.
+* [gatling-sbt-plugin](https://github.com/gatling/gatling-sbt-plugin) ⭐ 108 | 🐛 1 | 🌐 Scala | 📅 2026-08-31 - Gatling SBT plugin to integrate Gatling with SBT, allowing to use Gatling as a testing framework.
 * [gatling-kafka](https://github.com/mnogu/gatling-kafka) ⚠️ Archived - A Gatling plugin for stress testing Apache Kafka protocol.
 * [gatling-mqtt](https://github.com/mnogu/gatling-mqtt) ⚠️ Archived - A Gatling plugin for stress testing MQTT.
-* [gatling-maven-plugin](https://github.com/gatling/gatling-maven-plugin) ⭐ 38 | 🐛 1 | 🌐 Java | 📅 2026-08-26 - Gatling Maven Extensions.
-* [gatling-gradle-plugin](https://github.com/gatling/gatling-gradle-plugin) ⭐ 30 | 🐛 0 | 🌐 Groovy | 📅 2026-08-26 - Gatling plugin for Gradle.
+* [gatling-maven-plugin](https://github.com/gatling/gatling-maven-plugin) ⭐ 38 | 🐛 1 | 🌐 Java | 📅 2026-08-31 - Gatling Maven Extensions.
+* [gatling-gradle-plugin](https://github.com/gatling/gatling-gradle-plugin) ⭐ 30 | 🐛 0 | 🌐 Groovy | 📅 2026-08-31 - Gatling plugin for Gradle.
 * [gatling-tcp-extensions](https://github.com/scalecube/gatling-tcp-extensions) ⭐ 23 | 🐛 5 | 🌐 Scala | 📅 2023-04-16 - TCP extensions for Gatling.
 * [gatling-kafka-plugin](https://github.com/galax-io/gatling-kafka-plugin) ⭐ 22 | 🐛 25 | 🌐 Scala | 📅 2026-08-30 - Plugin for support Kafka in Gatling.
 * [gatling-kafka](https://github.com/Amerousful/gatling-kafka) ⭐ 18 | 🐛 3 | 🌐 Scala | 📅 2026-05-23 - Gatling plugin for Kafka.
 * [gatling-thrift](https://github.com/3tty0n/gatling-thrift) ⚠️ Archived - Gatling third party plugin for Apache Thrift.
-* [gatling-picatinny](https://github.com/galax-io/gatling-picatinny) ⭐ 12 | 🐛 61 | 🌐 Scala | 📅 2026-08-30 - Library with a bunch of useful functions that extend Gatling DSL.
+* [gatling-picatinny](https://github.com/galax-io/gatling-picatinny) ⭐ 12 | 🐛 62 | 🌐 Scala | 📅 2026-08-31 - Library with a bunch of useful functions that extend Gatling DSL.
 * [gatling-aws](https://github.com/callistaenterprise/gatling-aws) ⭐ 11 | 🐛 2 | 🌐 Scala | 📅 2018-11-14 - Gatling custom protocol for AWS Lambda.
 * [gatling-wait](https://github.com/Amerousful/gatling-wait) ⭐ 11 | 🐛 0 | 🌐 Scala | 📅 2026-02-27 - Plugin that simplifies waiting for specific events allowing customizable conditions, attempt management, and error handling.
 * [gatling-remote-sbt](https://github.com/Pravoru/gatling-remote-sbt) ⭐ 10 | 🐛 0 | 🌐 Scala | 📅 2020-04-29 - Remote execution plugin for Gatling load tests.
@@ -87,7 +87,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 * [gatling-kafka-extension](https://github.com/kbdering/GatlingMessaging) ⭐ 5 | 🐛 2 | 🌐 Java | 📅 2026-06-30 - A Gatling extension for load testing Kafka applications, with a focus on Request-Reply (RPC) patterns, Quality of Service (QoS) measurement, and resilience testing.
 * [gatling-zeromq](https://github.com/softwaremill/gatling-zeromq) ⚠️ Archived - A Gatling stress test plugin for ZeroMQ protocol.
 * [gatling-xmpp-protocol](https://github.com/TLmaK0/gatling-xmpp-protocol) ⭐ 4 | 🐛 0 | 🌐 Scala | 📅 2018-11-13 - XMPP protocol for stress test XMPP servers with Gatling.
-* [gatling-build-plugin](https://github.com/gatling/gatling-build-plugin) ⭐ 3 | 🐛 0 | 🌐 Scala | 📅 2026-08-25 - An SBT plugin to share common settings across Gatling's projects' builds.
+* [gatling-build-plugin](https://github.com/gatling/gatling-build-plugin) ⭐ 3 | 🐛 0 | 🌐 Scala | 📅 2026-08-31 - An SBT plugin to share common settings across Gatling's projects' builds.
 * [gatling-junitrunner](https://github.com/Pravoru/gatling-junitrunner) ⭐ 3 | 🐛 1 | 🌐 Scala | 📅 2018-11-09 - JUnit wrapper around Gatling simulations.
 * [gatling-bolt](https://github.com/sarmbruster/gatling-bolt) ⭐ 2 | 🐛 5 | 🌐 Scala | 📅 2021-02-16 - Support Neo4j Bolt protocol for Gatling.
 * [gatling-jwt](https://bitbucket.org/atlassianlabs/gatling-jwt/) - An extension to Gatling 2.0 to help make JWT-signed requests.
@@ -153,7 +153,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 ### Awesome Lists
 
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,363 | 🐛 8 | 📅 2026-08-28 - A curated list of testing resources.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,363 | 🐛 6 | 📅 2026-08-30 - A curated list of testing resources.
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,320 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
 * [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) ⭐ 807 | 🐛 4 | 🌐 HTML | 📅 2026-08-01 - Open-source load testing and performance measurement tool, written in Java.
 * [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 774 | 🐛 2 | 📅 2026-08-18 - Open-source, developer-centric performance monitoring and load testing solution.
@@ -163,7 +163,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 ### Other
 
 * [Load Testing Toolkit](https://github.com/aliesbelik/load-testing-toolkit) ⭐ 253 | 🐛 1 | 📅 2026-07-01 - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
-* [How They Load Test](https://github.com/aliesbelik/how-they-load) ⭐ 167 | 🐛 1 | 📅 2026-08-11 - A curated collection of publicly available resources on how companies around the world perform load testing.
+* [How They Load Test](https://github.com/aliesbelik/how-they-load) ⭐ 167 | 🐛 1 | 📅 2026-08-31 - A curated collection of publicly available resources on how companies around the world perform load testing.
 
 ## Contributing
 
@@ -172,4 +172,4 @@ Please take a look at the [CONTRIBUTING](CONTRIBUTING.md) guidelines first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
