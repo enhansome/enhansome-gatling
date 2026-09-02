@@ -362,8 +362,8 @@
                 "id": 776741046,
                 "language": "Scala",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T02:28:20Z",
-                "open_issues": 62,
+                "last_commit": "2026-09-01T23:38:56Z",
+                "open_issues": 55,
                 "owner": "galax-io",
                 "repo": "gatling-picatinny",
                 "stars": 12,
@@ -1031,8 +1031,8 @@
                 "id": 77133957,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-08-30T21:10:13Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-01T23:22:10Z",
+                "open_issues": 6,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
                 "stars": 2364,
@@ -1095,7 +1095,7 @@
                 "open_issues": 4,
                 "owner": "aliesbelik",
                 "repo": "awesome-jmeter",
-                "stars": 807,
+                "stars": 806,
                 "topics": [
                   "apache-jmeter",
                   "awesome",
@@ -1272,7 +1272,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T17:55:41.811Z",
+    "last_updated": "2026-09-02T18:00:52.793Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Gatling load testing tool usage.",
