@@ -129,7 +129,7 @@
                 "id": 10322217,
                 "language": "Scala",
                 "license": null,
-                "last_commit": "2026-09-04T09:54:17Z",
+                "last_commit": "2026-09-10T13:31:06Z",
                 "open_issues": 1,
                 "owner": "gatling",
                 "repo": "gatling-sbt-plugin",
@@ -281,7 +281,7 @@
                 "id": 709126751,
                 "language": "Scala",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-06T01:23:48Z",
+                "last_commit": "2026-09-09T22:05:57Z",
                 "open_issues": 29,
                 "owner": "galax-io",
                 "repo": "gatling-kafka-plugin",
@@ -631,7 +631,7 @@
                 "id": 28174813,
                 "language": "Scala",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T07:10:07Z",
+                "last_commit": "2026-09-10T13:23:48Z",
                 "open_issues": 0,
                 "owner": "gatling",
                 "repo": "gatling-build-plugin",
@@ -1032,10 +1032,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-04T10:13:45Z",
-                "open_issues": 14,
+                "open_issues": 16,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2371,
+                "stars": 2372,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1272,7 +1272,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T17:57:04.985Z",
+    "last_updated": "2026-09-10T17:49:25.807Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Gatling load testing tool usage.",
