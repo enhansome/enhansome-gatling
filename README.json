@@ -1032,7 +1032,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-04T10:13:45Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
                 "stars": 2372,
@@ -1272,7 +1272,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T17:49:25.807Z",
+    "last_updated": "2026-09-11T17:51:52.043Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Gatling load testing tool usage.",
