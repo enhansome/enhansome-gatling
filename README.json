@@ -250,6 +250,39 @@
             },
             {
               "node_type": "item",
+              "title": "gatling-kafka-plugin",
+              "description": "Plugin for support Kafka in Gatling.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Gatling plugin for Apache Kafka — produce, request-reply, and consume load testing with Avro, Protobuf, and Schema Registry support",
+                "homepage": null,
+                "id": 709126751,
+                "language": "Scala",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-09T22:05:57Z",
+                "open_issues": 29,
+                "owner": "galax-io",
+                "repo": "gatling-kafka-plugin",
+                "stars": 24,
+                "topics": [
+                  "avro",
+                  "gatling",
+                  "java",
+                  "kafka",
+                  "kotlin",
+                  "load-testing",
+                  "performance",
+                  "performance-testing",
+                  "protobuf",
+                  "scala",
+                  "schema-registry"
+                ]
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
+            },
+            {
+              "node_type": "item",
               "title": "gatling-tcp-extensions",
               "description": "TCP extensions for Gatling.",
               "children": [],
@@ -266,39 +299,6 @@
                 "repo": "gatling-tcp-extensions",
                 "stars": 23,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T23:39:11.645Z"
-            },
-            {
-              "node_type": "item",
-              "title": "gatling-kafka-plugin",
-              "description": "Plugin for support Kafka in Gatling.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Gatling plugin for Apache Kafka — produce, request-reply, and consume load testing with Avro, Protobuf, and Schema Registry support",
-                "homepage": null,
-                "id": 709126751,
-                "language": "Scala",
-                "license": "Apache-2.0",
-                "last_commit": "2026-09-09T22:05:57Z",
-                "open_issues": 29,
-                "owner": "galax-io",
-                "repo": "gatling-kafka-plugin",
-                "stars": 22,
-                "topics": [
-                  "avro",
-                  "gatling",
-                  "java",
-                  "kafka",
-                  "kotlin",
-                  "load-testing",
-                  "performance",
-                  "performance-testing",
-                  "protobuf",
-                  "scala",
-                  "schema-registry"
-                ]
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             },
@@ -366,7 +366,7 @@
                 "open_issues": 59,
                 "owner": "galax-io",
                 "repo": "gatling-picatinny",
-                "stars": 12,
+                "stars": 14,
                 "topics": [
                   "dsl",
                   "feeders",
@@ -402,6 +402,40 @@
                 "repo": "gatling-aws",
                 "stars": 11,
                 "topics": []
+              },
+              "first_seen": "2026-08-28T23:39:11.645Z"
+            },
+            {
+              "node_type": "item",
+              "title": "gatling-jdbc-plugin",
+              "description": "Simple Gatling plugin for JDBC support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Gatling plugin for JDBC — SQL queries, batch operations, and stored procedures with HikariCP connection pooling",
+                "homepage": null,
+                "id": 776761205,
+                "language": "Scala",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-06T03:48:26Z",
+                "open_issues": 36,
+                "owner": "galax-io",
+                "repo": "gatling-jdbc-plugin",
+                "stars": 11,
+                "topics": [
+                  "gatling",
+                  "gatling-plugin",
+                  "hikaricp",
+                  "java",
+                  "jdbc",
+                  "kotlin",
+                  "load-testing",
+                  "mysql",
+                  "performance",
+                  "performance-testing",
+                  "postgresql",
+                  "scala"
+                ]
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
             },
@@ -454,40 +488,6 @@
             },
             {
               "node_type": "item",
-              "title": "gatling-jdbc-plugin",
-              "description": "Simple Gatling plugin for JDBC support.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Gatling plugin for JDBC — SQL queries, batch operations, and stored procedures with HikariCP connection pooling",
-                "homepage": null,
-                "id": 776761205,
-                "language": "Scala",
-                "license": "Apache-2.0",
-                "last_commit": "2026-09-06T03:48:26Z",
-                "open_issues": 36,
-                "owner": "galax-io",
-                "repo": "gatling-jdbc-plugin",
-                "stars": 9,
-                "topics": [
-                  "gatling",
-                  "gatling-plugin",
-                  "hikaricp",
-                  "java",
-                  "jdbc",
-                  "kotlin",
-                  "load-testing",
-                  "mysql",
-                  "performance",
-                  "performance-testing",
-                  "postgresql",
-                  "scala"
-                ]
-              },
-              "first_seen": "2026-08-28T23:39:11.645Z"
-            },
-            {
-              "node_type": "item",
               "title": "gatling-amqp-plugin",
               "description": "Plugin for support performance testing with AMQP in Gatling (3.2.x).",
               "children": [],
@@ -502,7 +502,7 @@
                 "open_issues": 6,
                 "owner": "galax-io",
                 "repo": "gatling-amqp-plugin",
-                "stars": 7,
+                "stars": 9,
                 "topics": [
                   "amqp",
                   "gatling",
@@ -1032,10 +1032,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-04T10:13:45Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2372,
+                "stars": 2373,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1272,7 +1272,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T17:51:52.043Z",
+    "last_updated": "2026-09-12T17:24:58.203Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Gatling load testing tool usage.",
