@@ -1031,8 +1031,8 @@
                 "id": 77133957,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-27T11:21:31Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-30T18:57:10Z",
+                "open_issues": 8,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
                 "stars": 2381,
@@ -1121,11 +1121,11 @@
                 "id": 236692087,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-08-18T23:40:48Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-30T14:34:21Z",
+                "open_issues": 2,
                 "owner": "grafana",
                 "repo": "awesome-k6",
-                "stars": 777,
+                "stars": 778,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1272,7 +1272,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T19:36:02.692Z",
+    "last_updated": "2026-09-30T19:35:55.684Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Gatling load testing tool usage.",
