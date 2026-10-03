@@ -260,8 +260,8 @@
                 "id": 709126751,
                 "language": "Scala",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T02:40:55Z",
-                "open_issues": 25,
+                "last_commit": "2026-10-02T22:04:40Z",
+                "open_issues": 26,
                 "owner": "galax-io",
                 "repo": "gatling-kafka-plugin",
                 "stars": 24,
@@ -1222,7 +1222,7 @@
                 "open_issues": 1,
                 "owner": "aliesbelik",
                 "repo": "load-testing-toolkit",
-                "stars": 254,
+                "stars": 253,
                 "topics": [
                   "benchmarking",
                   "ddos",
@@ -1272,7 +1272,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:28:58.422Z",
+    "last_updated": "2026-10-03T04:47:46.581Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Gatling load testing tool usage.",
