@@ -41,7 +41,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 * [Homepage](https://gatling.io/)
 * [Documentation](https://docs.gatling.io/)
-* [Source code](https://github.com/gatling/gatling) ⭐ 6,958 | 🐛 18 | 🌐 Scala | 📅 2026-10-05
+* [Source code](https://github.com/gatling/gatling) ⭐ 6,958 | 🐛 18 | 🌐 Scala | 📅 2026-10-06
 
 ## Getting Started
 
@@ -68,7 +68,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 * [gatling-dubbo](https://github.com/youzan/gatling-dubbo) ⭐ 153 | 🐛 4 | 🌐 Scala | 📅 2019-08-20 - A Gatling plugin for running load tests on Apache Dubbo.
 * [gatling-grpc](https://github.com/phiSgr/gatling-grpc) ⚠️ Archived - Gatling load test plugin for gRPC.
-* [gatling-sbt-plugin](https://github.com/gatling/gatling-sbt-plugin) ⭐ 108 | 🐛 2 | 🌐 Scala | 📅 2026-10-05 - Gatling SBT plugin to integrate Gatling with SBT, allowing to use Gatling as a testing framework.
+* [gatling-sbt-plugin](https://github.com/gatling/gatling-sbt-plugin) ⭐ 108 | 🐛 1 | 🌐 Scala | 📅 2026-10-07 - Gatling SBT plugin to integrate Gatling with SBT, allowing to use Gatling as a testing framework.
 * [gatling-kafka](https://github.com/mnogu/gatling-kafka) ⚠️ Archived - A Gatling plugin for stress testing Apache Kafka protocol.
 * [gatling-mqtt](https://github.com/mnogu/gatling-mqtt) ⚠️ Archived - A Gatling plugin for stress testing MQTT.
 * [gatling-maven-plugin](https://github.com/gatling/gatling-maven-plugin) ⭐ 38 | 🐛 1 | 🌐 Java | 📅 2026-10-05 - Gatling Maven Extensions.
@@ -153,8 +153,8 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 ### Awesome Lists
 
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,381 | 🐛 6 | 📅 2026-10-01 - A curated list of testing resources.
-* [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,319 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,381 | 🐛 7 | 📅 2026-10-01 - A curated list of testing resources.
+* [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,320 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
 * [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) ⭐ 806 | 🐛 4 | 🌐 HTML | 📅 2026-08-01 - Open-source load testing and performance measurement tool, written in Java.
 * [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 778 | 🐛 3 | 📅 2026-09-30 - Open-source, developer-centric performance monitoring and load testing solution.
 * [Awesome Locust](https://github.com/aliesbelik/awesome-locust) ⭐ 111 | 🐛 1 | 📅 2026-10-06 - Open-source scalable load testing framework written in Python.
@@ -172,4 +172,4 @@ Please take a look at the [CONTRIBUTING](CONTRIBUTING.md) guidelines first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
