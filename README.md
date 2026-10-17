@@ -73,13 +73,13 @@ A curated collection of resources covering all aspects of load testing using [Ga
 * [gatling-mqtt](https://github.com/mnogu/gatling-mqtt) ⚠️ Archived - A Gatling plugin for stress testing MQTT.
 * [gatling-maven-plugin](https://github.com/gatling/gatling-maven-plugin) ⭐ 38 | 🐛 1 | 🌐 Java | 📅 2026-10-05 - Gatling Maven Extensions.
 * [gatling-gradle-plugin](https://github.com/gatling/gatling-gradle-plugin) ⭐ 30 | 🐛 0 | 🌐 Groovy | 📅 2026-10-05 - Gatling plugin for Gradle.
-* [gatling-kafka-plugin](https://github.com/galax-io/gatling-kafka-plugin) ⭐ 25 | 🐛 26 | 🌐 Scala | 📅 2026-10-16 - Plugin for support Kafka in Gatling.
+* [gatling-kafka-plugin](https://github.com/galax-io/gatling-kafka-plugin) ⭐ 25 | 🐛 27 | 🌐 Scala | 📅 2026-10-16 - Plugin for support Kafka in Gatling.
 * [gatling-tcp-extensions](https://github.com/scalecube/gatling-tcp-extensions) ⭐ 23 | 🐛 5 | 🌐 Scala | 📅 2023-04-16 - TCP extensions for Gatling.
 * [gatling-kafka](https://github.com/Amerousful/gatling-kafka) ⭐ 18 | 🐛 3 | 🌐 Scala | 📅 2026-05-23 - Gatling plugin for Kafka.
 * [gatling-thrift](https://github.com/3tty0n/gatling-thrift) ⚠️ Archived - Gatling third party plugin for Apache Thrift.
-* [gatling-picatinny](https://github.com/galax-io/gatling-picatinny) ⭐ 14 | 🐛 60 | 🌐 Scala | 📅 2026-10-16 - Library with a bunch of useful functions that extend Gatling DSL.
+* [gatling-picatinny](https://github.com/galax-io/gatling-picatinny) ⭐ 14 | 🐛 58 | 🌐 Scala | 📅 2026-10-17 - Library with a bunch of useful functions that extend Gatling DSL.
 * [gatling-aws](https://github.com/callistaenterprise/gatling-aws) ⭐ 11 | 🐛 2 | 🌐 Scala | 📅 2018-11-14 - Gatling custom protocol for AWS Lambda.
-* [gatling-jdbc-plugin](https://github.com/galax-io/gatling-jdbc-plugin) ⭐ 11 | 🐛 33 | 🌐 Scala | 📅 2026-10-16 - Simple Gatling plugin for JDBC support.
+* [gatling-jdbc-plugin](https://github.com/galax-io/gatling-jdbc-plugin) ⭐ 11 | 🐛 31 | 🌐 Scala | 📅 2026-10-17 - Simple Gatling plugin for JDBC support.
 * [gatling-wait](https://github.com/Amerousful/gatling-wait) ⭐ 11 | 🐛 0 | 🌐 Scala | 📅 2026-02-27 - Plugin that simplifies waiting for specific events allowing customizable conditions, attempt management, and error handling.
 * [gatling-remote-sbt](https://github.com/Pravoru/gatling-remote-sbt) ⭐ 10 | 🐛 0 | 🌐 Scala | 📅 2020-04-29 - Remote execution plugin for Gatling load tests.
 * [gatling-amqp-plugin](https://github.com/galax-io/gatling-amqp-plugin) ⭐ 9 | 🐛 1 | 🌐 Scala | 📅 2026-10-16 - Plugin for support performance testing with AMQP in Gatling (3.2.x).
@@ -153,7 +153,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 ### Awesome Lists
 
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,391 | 🐛 21 | 📅 2026-10-08 - A curated list of testing resources.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,391 | 🐛 22 | 📅 2026-10-08 - A curated list of testing resources.
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,320 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
 * [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) ⭐ 806 | 🐛 2 | 🌐 HTML | 📅 2026-10-08 - Open-source load testing and performance measurement tool, written in Java.
 * [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 780 | 🐛 4 | 📅 2026-10-11 - Open-source, developer-centric performance monitoring and load testing solution.
@@ -172,4 +172,4 @@ Please take a look at the [CONTRIBUTING](CONTRIBUTING.md) guidelines first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
