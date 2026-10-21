@@ -129,7 +129,7 @@
                 "id": 10322217,
                 "language": "Scala",
                 "license": null,
-                "last_commit": "2026-10-19T02:48:42Z",
+                "last_commit": "2026-10-21T07:58:59Z",
                 "open_issues": 1,
                 "owner": "gatling",
                 "repo": "gatling-sbt-plugin",
@@ -206,7 +206,7 @@
                 "id": 25203867,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T08:17:16Z",
+                "last_commit": "2026-10-21T14:47:40Z",
                 "open_issues": 1,
                 "owner": "gatling",
                 "repo": "gatling-maven-plugin",
@@ -1032,10 +1032,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-20T18:24:52Z",
-                "open_issues": 0,
+                "open_issues": 5,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2393,
+                "stars": 2395,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1063,7 +1063,7 @@
                 "open_issues": 0,
                 "owner": "ligurio",
                 "repo": "sqa-wiki",
-                "stars": 2320,
+                "stars": 2321,
                 "topics": [
                   "courses",
                   "ebooks",
@@ -1272,7 +1272,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T18:40:25.568Z",
+    "last_updated": "2026-10-21T18:51:22.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Gatling load testing tool usage.",
