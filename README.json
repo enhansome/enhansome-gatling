@@ -41,7 +41,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-03-25T11:10:53Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "st-tech",
             "repo": "gatling-operator",
             "stars": 85,
@@ -129,7 +129,7 @@
                 "id": 10322217,
                 "language": "Scala",
                 "license": null,
-                "last_commit": "2026-10-21T07:58:59Z",
+                "last_commit": "2026-10-26T07:08:29Z",
                 "open_issues": 1,
                 "owner": "gatling",
                 "repo": "gatling-sbt-plugin",
@@ -233,7 +233,7 @@
                 "id": 277641140,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T07:14:20Z",
+                "last_commit": "2026-10-26T07:15:27Z",
                 "open_issues": 0,
                 "owner": "gatling",
                 "repo": "gatling-gradle-plugin",
@@ -318,7 +318,7 @@
                 "open_issues": 3,
                 "owner": "Amerousful",
                 "repo": "gatling-kafka",
-                "stars": 18,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
@@ -631,7 +631,7 @@
                 "id": 28174813,
                 "language": "Scala",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T08:34:11Z",
+                "last_commit": "2026-10-26T07:10:37Z",
                 "open_issues": 0,
                 "owner": "gatling",
                 "repo": "gatling-build-plugin",
@@ -1031,11 +1031,11 @@
                 "id": 77133957,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-25T09:09:44Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-26T09:09:49Z",
+                "open_issues": 5,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2401,
+                "stars": 2403,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1095,7 +1095,7 @@
                 "open_issues": 2,
                 "owner": "aliesbelik",
                 "repo": "awesome-jmeter",
-                "stars": 806,
+                "stars": 807,
                 "topics": [
                   "apache-jmeter",
                   "awesome",
@@ -1125,7 +1125,7 @@
                 "open_issues": 4,
                 "owner": "grafana",
                 "repo": "awesome-k6",
-                "stars": 781,
+                "stars": 782,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1272,7 +1272,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T17:48:06.173Z",
+    "last_updated": "2026-10-26T20:06:09.039Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Gatling load testing tool usage.",
