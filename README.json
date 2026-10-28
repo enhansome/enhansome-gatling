@@ -1031,11 +1031,11 @@
                 "id": 77133957,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-26T09:09:49Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-28T17:43:50Z",
+                "open_issues": 2,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2403,
+                "stars": 2407,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1095,7 +1095,7 @@
                 "open_issues": 2,
                 "owner": "aliesbelik",
                 "repo": "awesome-jmeter",
-                "stars": 807,
+                "stars": 808,
                 "topics": [
                   "apache-jmeter",
                   "awesome",
@@ -1122,7 +1122,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-11T04:03:00Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "grafana",
                 "repo": "awesome-k6",
                 "stars": 782,
@@ -1219,7 +1219,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-09-18T13:27:03Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "aliesbelik",
                 "repo": "load-testing-toolkit",
                 "stars": 252,
@@ -1272,7 +1272,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T19:35:21.429Z",
+    "last_updated": "2026-10-28T19:48:22.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Gatling load testing tool usage.",
