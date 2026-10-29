@@ -41,7 +41,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 * [Homepage](https://gatling.io/)
 * [Documentation](https://docs.gatling.io/)
-* [Source code](https://github.com/gatling/gatling) ⭐ 6,955 | 🐛 20 | 🌐 Scala | 📅 2026-10-21
+* [Source code](https://github.com/gatling/gatling) ⭐ 6,954 | 🐛 20 | 🌐 Scala | 📅 2026-10-21
 
 ## Getting Started
 
@@ -153,7 +153,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 ### Awesome Lists
 
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,407 | 🐛 2 | 📅 2026-10-28 - A curated list of testing resources.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,407 | 🐛 5 | 📅 2026-10-28 - A curated list of testing resources.
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,321 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
 * [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) ⭐ 808 | 🐛 2 | 🌐 HTML | 📅 2026-10-08 - Open-source load testing and performance measurement tool, written in Java.
 * [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 782 | 🐛 5 | 📅 2026-10-11 - Open-source, developer-centric performance monitoring and load testing solution.
@@ -172,4 +172,4 @@ Please take a look at the [CONTRIBUTING](CONTRIBUTING.md) guidelines first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
