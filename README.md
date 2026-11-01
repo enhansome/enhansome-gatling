@@ -153,12 +153,12 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 ### Awesome Lists
 
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,408 | 🐛 4 | 📅 2026-10-30 - A curated list of testing resources.
-* [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,321 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
-* [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) ⭐ 808 | 🐛 2 | 🌐 HTML | 📅 2026-10-08 - Open-source load testing and performance measurement tool, written in Java.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,409 | 🐛 4 | 📅 2026-10-31 - A curated list of testing resources.
+* [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,320 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
+* [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) ⭐ 808 | 🐛 4 | 🌐 HTML | 📅 2026-11-01 - Open-source load testing and performance measurement tool, written in Java.
 * [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 783 | 🐛 5 | 📅 2026-10-30 - Open-source, developer-centric performance monitoring and load testing solution.
-* [Awesome Locust](https://github.com/aliesbelik/awesome-locust) ⭐ 111 | 🐛 1 | 📅 2026-10-06 - Open-source scalable load testing framework written in Python.
-* [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung) ⭐ 23 | 🐛 0 | 📅 2026-10-06 - Open-source multi-protocol distributed load testing tool, developed in Erlang.
+* [Awesome Locust](https://github.com/aliesbelik/awesome-locust) ⭐ 111 | 🐛 4 | 📅 2026-11-01 - Open-source scalable load testing framework written in Python.
+* [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung) ⭐ 23 | 🐛 3 | 📅 2026-11-01 - Open-source multi-protocol distributed load testing tool, developed in Erlang.
 
 ### Other
 
@@ -172,4 +172,4 @@ Please take a look at the [CONTRIBUTING](CONTRIBUTING.md) guidelines first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
