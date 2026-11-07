@@ -260,7 +260,7 @@
                 "id": 709126751,
                 "language": "Scala",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T03:47:37Z",
+                "last_commit": "2026-11-06T22:05:16Z",
                 "open_issues": 3,
                 "owner": "galax-io",
                 "repo": "gatling-kafka-plugin",
@@ -1031,11 +1031,11 @@
                 "id": 77133957,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-06T09:16:18Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-07T05:44:03Z",
+                "open_issues": 2,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2413,
+                "stars": 2414,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1272,7 +1272,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T20:30:39.171Z",
+    "last_updated": "2026-11-07T19:00:12.862Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Gatling load testing tool usage.",
