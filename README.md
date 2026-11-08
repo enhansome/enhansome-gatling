@@ -41,7 +41,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 * [Homepage](https://gatling.io/)
 * [Documentation](https://docs.gatling.io/)
-* [Source code](https://github.com/gatling/gatling) ⭐ 6,960 | 🐛 16 | 🌐 Scala | 📅 2026-11-05
+* [Source code](https://github.com/gatling/gatling) ⭐ 6,959 | 🐛 15 | 🌐 Scala | 📅 2026-11-07
 
 ## Getting Started
 
@@ -153,7 +153,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 ### Awesome Lists
 
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,414 | 🐛 2 | 📅 2026-11-07 - A curated list of testing resources.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,415 | 🐛 2 | 📅 2026-11-07 - A curated list of testing resources.
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,322 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
 * [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) ⭐ 808 | 🐛 4 | 🌐 HTML | 📅 2026-11-01 - Open-source load testing and performance measurement tool, written in Java.
 * [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 784 | 🐛 6 | 📅 2026-10-30 - Open-source, developer-centric performance monitoring and load testing solution.
@@ -162,7 +162,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 ### Other
 
-* [Load Testing Toolkit](https://github.com/aliesbelik/load-testing-toolkit) ⭐ 252 | 🐛 7 | 📅 2026-09-18 - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
+* [Load Testing Toolkit](https://github.com/aliesbelik/load-testing-toolkit) ⭐ 253 | 🐛 7 | 📅 2026-09-18 - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
 * [How They Load Test](https://github.com/aliesbelik/how-they-load) ⭐ 168 | 🐛 2 | 📅 2026-08-31 - A curated collection of publicly available resources on how companies around the world perform load testing.
 
 ## Contributing
@@ -172,4 +172,4 @@ Please take a look at the [CONTRIBUTING](CONTRIBUTING.md) guidelines first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
