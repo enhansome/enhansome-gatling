@@ -129,7 +129,7 @@
                 "id": 10322217,
                 "language": "Scala",
                 "license": null,
-                "last_commit": "2026-11-11T12:06:35Z",
+                "last_commit": "2026-11-12T10:55:52Z",
                 "open_issues": 1,
                 "owner": "gatling",
                 "repo": "gatling-sbt-plugin",
@@ -521,6 +521,31 @@
             },
             {
               "node_type": "item",
+              "title": "gatling-dummy-sampler",
+              "description": "Gatling implementation of Dummy Sampler, a plugin for simulating realistic actions without making actual requests.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Gatling implementation of Dummy Sampler",
+                "homepage": null,
+                "id": 880473339,
+                "language": "Scala",
+                "license": "Apache-2.0",
+                "last_commit": "2025-09-10T10:45:40Z",
+                "open_issues": 0,
+                "owner": "i-nahornyi",
+                "repo": "gatling-dummy-sampler",
+                "stars": 8,
+                "topics": [
+                  "gatling",
+                  "gatling-plugin",
+                  "performance-testing"
+                ]
+              },
+              "first_seen": "2026-11-12T21:33:16.711Z"
+            },
+            {
+              "node_type": "item",
               "title": "gatling-sql",
               "description": "Gatling extension for JDBC or Spark Thrift Server stress testing.",
               "children": [],
@@ -631,8 +656,8 @@
                 "id": 28174813,
                 "language": "Scala",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T21:31:01Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-12T08:54:40Z",
+                "open_issues": 0,
                 "owner": "gatling",
                 "repo": "gatling-build-plugin",
                 "stars": 3,
@@ -666,6 +691,32 @@
                 ]
               },
               "first_seen": "2026-08-28T23:39:11.645Z"
+            },
+            {
+              "node_type": "item",
+              "title": "gatling-playwright-plugin",
+              "description": "A simple Gatling plugin for UI performance testing using Playwright.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A simple Gatling plugin for UI performance testing using Playwright.",
+                "homepage": "https://i-nahornyi.github.io/gatling-playwright-plugin/",
+                "id": 852759447,
+                "language": "Scala",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-12T13:37:00Z",
+                "open_issues": 0,
+                "owner": "i-nahornyi",
+                "repo": "gatling-playwright-plugin",
+                "stars": 3,
+                "topics": [
+                  "gatling",
+                  "gatling-plugin",
+                  "performance",
+                  "playwright"
+                ]
+              },
+              "first_seen": "2026-11-12T21:33:16.711Z"
             },
             {
               "node_type": "item",
@@ -1035,7 +1086,7 @@
                 "open_issues": 2,
                 "owner": "TheJambo",
                 "repo": "awesome-testing",
-                "stars": 2418,
+                "stars": 2420,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1063,7 +1114,7 @@
                 "open_issues": 0,
                 "owner": "ligurio",
                 "repo": "sqa-wiki",
-                "stars": 2321,
+                "stars": 2322,
                 "topics": [
                   "courses",
                   "ebooks",
@@ -1095,7 +1146,7 @@
                 "open_issues": 0,
                 "owner": "aliesbelik",
                 "repo": "awesome-jmeter",
-                "stars": 809,
+                "stars": 810,
                 "topics": [
                   "apache-jmeter",
                   "awesome",
@@ -1125,7 +1176,7 @@
                 "open_issues": 6,
                 "owner": "grafana",
                 "repo": "awesome-k6",
-                "stars": 784,
+                "stars": 785,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1272,7 +1323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T21:31:04.417Z",
+    "last_updated": "2026-11-12T21:33:16.711Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Gatling load testing tool usage.",
@@ -1280,7 +1331,7 @@
       "id": 216829747,
       "language": null,
       "license": "CC-BY-4.0",
-      "last_commit": "2026-11-02T01:47:38Z",
+      "last_commit": "2026-11-12T04:25:54Z",
       "open_issues": 0,
       "owner": "aliesbelik",
       "repo": "awesome-gatling",
@@ -1297,7 +1348,7 @@
         "scala"
       ]
     },
-    "original_repository_sha": "e5fbb8a129ad13914d8b68a86bd3720ea071ad96",
+    "original_repository_sha": "acc5de78ca7f9e15d3dcb78cae359b3b11225ae7",
     "enhanced_repository": "enhansome/enhansome-gatling",
     "enhanced_repository_description": null,
     "title": "Awesome Gatling with stars"
