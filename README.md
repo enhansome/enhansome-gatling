@@ -41,7 +41,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 * [Homepage](https://gatling.io/)
 * [Documentation](https://docs.gatling.io/)
-* [Source code](https://github.com/gatling/gatling) ⭐ 6,962 | 🐛 15 | 🌐 Scala | 📅 2026-11-11
+* [Source code](https://github.com/gatling/gatling) ⭐ 6,961 | 🐛 15 | 🌐 Scala | 📅 2026-11-11
 
 ## Getting Started
 
@@ -157,7 +157,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 * [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,420 | 🐛 2 | 📅 2026-11-11 - A curated list of testing resources.
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,322 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
-* [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) ⭐ 810 | 🐛 0 | 🌐 HTML | 📅 2026-11-10 - Open-source load testing and performance measurement tool, written in Java.
+* [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) ⭐ 810 | 🐛 1 | 🌐 HTML | 📅 2026-11-10 - Open-source load testing and performance measurement tool, written in Java.
 * [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 785 | 🐛 6 | 📅 2026-10-30 - Open-source, developer-centric performance monitoring and load testing solution.
 * [Awesome Locust](https://github.com/aliesbelik/awesome-locust) ⭐ 111 | 🐛 0 | 📅 2026-11-03 - Open-source scalable load testing framework written in Python.
 * [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung) ⭐ 23 | 🐛 0 | 📅 2026-11-02 - Open-source multi-protocol distributed load testing tool, developed in Erlang.
@@ -174,4 +174,4 @@ Please take a look at the [CONTRIBUTING](CONTRIBUTING.md) guidelines first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
