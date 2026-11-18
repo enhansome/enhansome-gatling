@@ -34,14 +34,14 @@
           "description": "Automating distributed Gatling load testing using Kubernetes operator.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Automating distributed Gatling load testing using Kubernetes operator",
             "homepage": null,
             "id": 413785782,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-17T03:36:43Z",
-            "open_issues": 19,
+            "last_commit": "2026-11-18T02:12:16Z",
+            "open_issues": 18,
             "owner": "st-tech",
             "repo": "gatling-operator",
             "stars": 86,
@@ -129,8 +129,8 @@
                 "id": 10322217,
                 "language": "Scala",
                 "license": null,
-                "last_commit": "2026-11-16T23:02:46Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-18T12:47:34Z",
+                "open_issues": 1,
                 "owner": "gatling",
                 "repo": "gatling-sbt-plugin",
                 "stars": 108,
@@ -1323,7 +1323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T22:36:09.737Z",
+    "last_updated": "2026-11-18T22:16:14.973Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering different aspects of Gatling load testing tool usage.",

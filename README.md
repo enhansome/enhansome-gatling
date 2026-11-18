@@ -41,7 +41,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 * [Homepage](https://gatling.io/)
 * [Documentation](https://docs.gatling.io/)
-* [Source code](https://github.com/gatling/gatling) ⭐ 6,965 | 🐛 15 | 🌐 Scala | 📅 2026-11-16
+* [Source code](https://github.com/gatling/gatling) ⭐ 6,964 | 🐛 15 | 🌐 Scala | 📅 2026-11-16
 
 ## Getting Started
 
@@ -58,7 +58,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 ## Distributed Testing
 
 * [Distributed Gatling](https://github.com/Abiy/distGatling) ⭐ 102 | 🐛 48 | 🌐 CSS | 📅 2023-01-04 - Solution to run Gatling simulation tests in a distributed/cluster environment.
-* [gatling-operator](https://github.com/st-tech/gatling-operator) ⭐ 86 | 🐛 19 | 🌐 Go | 📅 2026-11-17 - Automating distributed Gatling load testing using Kubernetes operator.
+* [gatling-operator](https://github.com/st-tech/gatling-operator) ⚠️ Archived - Automating distributed Gatling load testing using Kubernetes operator.
 * [Distributed load testing with Gatling and Kubernetes](https://debijenkorf.tech/https-medium-com-annashepeleva-distributed-load-testing-with-gatling-and-kubernetes-93ebce26edbe)
 * [Gatling – Scaling Out Your Load Tests](https://web.archive.org/web/20210625094528/http://www.nimrodstech.com/gatling-cluster-load-testing/)
 
@@ -68,7 +68,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 * [gatling-dubbo](https://github.com/youzan/gatling-dubbo) ⭐ 152 | 🐛 4 | 🌐 Scala | 📅 2019-08-20 - A Gatling plugin for running load tests on Apache Dubbo.
 * [gatling-grpc](https://github.com/phiSgr/gatling-grpc) ⚠️ Archived - Gatling load test plugin for gRPC.
-* [gatling-sbt-plugin](https://github.com/gatling/gatling-sbt-plugin) ⭐ 108 | 🐛 2 | 🌐 Scala | 📅 2026-11-16 - Gatling SBT plugin to integrate Gatling with SBT, allowing to use Gatling as a testing framework.
+* [gatling-sbt-plugin](https://github.com/gatling/gatling-sbt-plugin) ⭐ 108 | 🐛 1 | 🌐 Scala | 📅 2026-11-18 - Gatling SBT plugin to integrate Gatling with SBT, allowing to use Gatling as a testing framework.
 * [gatling-kafka](https://github.com/mnogu/gatling-kafka) ⚠️ Archived - A Gatling plugin for stress testing Apache Kafka protocol.
 * [gatling-mqtt](https://github.com/mnogu/gatling-mqtt) ⚠️ Archived - A Gatling plugin for stress testing MQTT.
 * [gatling-maven-plugin](https://github.com/gatling/gatling-maven-plugin) ⭐ 38 | 🐛 1 | 🌐 Java | 📅 2026-11-16 - Gatling Maven Extensions.
@@ -174,4 +174,4 @@ Please take a look at the [CONTRIBUTING](CONTRIBUTING.md) guidelines first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
