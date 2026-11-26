@@ -41,7 +41,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 * [Homepage](https://gatling.io/)
 * [Documentation](https://docs.gatling.io/)
-* [Source code](https://github.com/gatling/gatling) ⭐ 6,967 | 🐛 15 | 🌐 Scala | 📅 2026-11-23
+* [Source code](https://github.com/gatling/gatling) ⭐ 6,968 | 🐛 15 | 🌐 Scala | 📅 2026-11-26
 
 ## Getting Started
 
@@ -68,7 +68,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 * [gatling-dubbo](https://github.com/youzan/gatling-dubbo) ⭐ 152 | 🐛 4 | 🌐 Scala | 📅 2019-08-20 - A Gatling plugin for running load tests on Apache Dubbo.
 * [gatling-grpc](https://github.com/phiSgr/gatling-grpc) ⚠️ Archived - Gatling load test plugin for gRPC.
-* [gatling-sbt-plugin](https://github.com/gatling/gatling-sbt-plugin) ⭐ 108 | 🐛 1 | 🌐 Scala | 📅 2026-11-23 - Gatling SBT plugin to integrate Gatling with SBT, allowing to use Gatling as a testing framework.
+* [gatling-sbt-plugin](https://github.com/gatling/gatling-sbt-plugin) ⭐ 108 | 🐛 1 | 🌐 Scala | 📅 2026-11-26 - Gatling SBT plugin to integrate Gatling with SBT, allowing to use Gatling as a testing framework.
 * [gatling-kafka](https://github.com/mnogu/gatling-kafka) ⚠️ Archived - A Gatling plugin for stress testing Apache Kafka protocol.
 * [gatling-mqtt](https://github.com/mnogu/gatling-mqtt) ⚠️ Archived - A Gatling plugin for stress testing MQTT.
 * [gatling-maven-plugin](https://github.com/gatling/gatling-maven-plugin) ⭐ 38 | 🐛 1 | 🌐 Java | 📅 2026-11-23 - Gatling Maven Extensions.
@@ -88,7 +88,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 * [gatling-kafka-extension](https://github.com/kbdering/GatlingMessaging) ⭐ 5 | 🐛 2 | 🌐 Java | 📅 2026-06-30 - A Gatling extension for load testing Kafka applications, with a focus on Request-Reply (RPC) patterns, Quality of Service (QoS) measurement, and resilience testing.
 * [gatling-zeromq](https://github.com/softwaremill/gatling-zeromq) ⚠️ Archived - A Gatling stress test plugin for ZeroMQ protocol.
 * [gatling-xmpp-protocol](https://github.com/TLmaK0/gatling-xmpp-protocol) ⭐ 4 | 🐛 0 | 🌐 Scala | 📅 2018-11-13 - XMPP protocol for stress test XMPP servers with Gatling.
-* [gatling-build-plugin](https://github.com/gatling/gatling-build-plugin) ⭐ 3 | 🐛 0 | 🌐 Scala | 📅 2026-11-24 - An SBT plugin to share common settings across Gatling's projects' builds.
+* [gatling-build-plugin](https://github.com/gatling/gatling-build-plugin) ⭐ 3 | 🐛 0 | 🌐 Scala | 📅 2026-11-26 - An SBT plugin to share common settings across Gatling's projects' builds.
 * [gatling-junitrunner](https://github.com/Pravoru/gatling-junitrunner) ⭐ 3 | 🐛 1 | 🌐 Scala | 📅 2018-11-09 - JUnit wrapper around Gatling simulations.
 * [gatling-playwright-plugin](https://github.com/i-nahornyi/gatling-playwright-plugin) ⭐ 3 | 🐛 0 | 🌐 Scala | 📅 2026-11-12 - A simple Gatling plugin for UI performance testing using Playwright.
 * [gatling-bolt](https://github.com/sarmbruster/gatling-bolt) ⭐ 2 | 🐛 5 | 🌐 Scala | 📅 2021-02-16 - Support Neo4j Bolt protocol for Gatling.
@@ -155,7 +155,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 ### Awesome Lists
 
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,431 | 🐛 3 | 📅 2026-11-25 - A curated list of testing resources.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,433 | 🐛 3 | 📅 2026-11-26 - A curated list of testing resources.
 * [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) ⭐ 2,325 | 🐛 0 | 📅 2023-02-01 - A list of free software testing and verification resources.
 * [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) ⭐ 811 | 🐛 3 | 🌐 HTML | 📅 2026-11-10 - Open-source load testing and performance measurement tool, written in Java.
 * [Awesome k6](https://github.com/grafana/awesome-k6) ⭐ 788 | 🐛 6 | 📅 2026-10-30 - Open-source, developer-centric performance monitoring and load testing solution.
@@ -174,4 +174,4 @@ Please take a look at the [CONTRIBUTING](CONTRIBUTING.md) guidelines first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
